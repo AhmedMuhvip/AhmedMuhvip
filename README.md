@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Ahmed Muhammed
+- 👀 I’m excited about starting my journey in front-end development and eager to learn all about building beautiful and functional websites.
+- 🌱 I’m currently learning the basics of HTML, CSS, and JavaScript, with a focus on mastering foundational concepts.
+- 💼 I’m looking for opportunities to gain experience through internships, entry-level positions, or collaborative projects.
+- 💞️ I’m interested in collaborating on simple projects where I can practice and improve my coding skills.
+- 🛠️ Tech Stack: HTML, CSS, and basic JavaScript (learning React soon!).
+- 📫 How to reach me: You can reach me via email at AhmedMuhammed0031@gmail.com.
+- ⚡ Fun fact: I love exploring new web design trends and am always curious about how things work on the internet!
