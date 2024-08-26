@@ -95,7 +95,7 @@
     <a href="https://vercel.com/"><img
             src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="Vercel"
             width="40" height="40" /></a>
-    <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=netlify" height="40"
+    <a href="https://app.netlify.com/teams/ahmedmuhvip/sites"><img src="https://skillicons.dev/icons?i=netlify" height="40"
             alt="c logo" /></a>
 </div>
 
