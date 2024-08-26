@@ -105,7 +105,7 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40"
             alt="twitter logo" />
     </a>
-    <a href="https://www.linkedin.com/in/ahmed-muhammed-772438322/" target="blank">
+    <a href="https://www.linkedin.com/in/ahmedmuhvip/" target="blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40"
             alt="linkedin logo" />
     </a>
