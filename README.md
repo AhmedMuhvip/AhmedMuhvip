@@ -76,7 +76,7 @@
 <h3 align="left">Tools & Utilities:</h3>
 
 <div align="left" style="display: flex; gap: 0.5rem">
-    <a href=""><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg"
+    <a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg"
             height="40" alt="jetbrains logo" /></a>
     <a href="https://www.linux.org/"><img
             src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40"
