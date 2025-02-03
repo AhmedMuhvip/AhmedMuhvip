@@ -26,12 +26,12 @@
     entry-level positions, or collaborative projects.
 </p>
 <p>
-    💞️ I’m interested in collaborating on simple projects where I can practice
+    💞 I’m interested in collaborating on simple projects where I can practice
     and improve my coding skills.
 </p>
-<p>🛠️ Tech Stack: HTML, CSS, and basic JavaScript (learning React soon!).</p>
+<p>🛠️ Tech Stack: HTML, CSS, JavaScript (learning React soon!), and PHP.</p>
 <p>
-    📫 How to reach me: You can reach me via email at AhmedMuhammed0031@gmail.com.
+    📢 How to reach me: You can reach me via email at AhmedMuhammed0031@gmail.com.
 </p>
 
 <h3 align="left">Frontend Development:</h3>
@@ -44,7 +44,7 @@
             height="40" alt="javascript logo" /></a>
     <a href="https://www.typescriptlang.org/"><img
             src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40"
-            alt="ts logo" /></a>
+            alt="typescript logo" /></a>
     <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" height="40"
             alt="bootstrap logo" /></a>
     <a href="https://tailwindcss.com/"><img
@@ -57,72 +57,50 @@
     <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" /></a>
     <a href="https://nextjs.org/"><img
             src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40"
-            alt="next logo" /></a>
+            alt="nextjs logo" /></a>
+    <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" /></a>
 </div>
 
 <h3 align="left">Programming Languages:</h3>
-
 <div align="left" style="display: flex; gap: 0.5rem">
     <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" /></a>
-    <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="40"
-            alt="cplusplus logo" /></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40"
-            alt="cplusplus logo" /></a>
-    <a href="https://www.python.org"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40"
-            alt="python logo" /></a>
+    <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" /></a>
+    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo" /></a>
+    <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" /></a>
 </div>
 
 <h3 align="left">Tools & Utilities:</h3>
-
 <div align="left" style="display: flex; gap: 0.5rem">
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg"
-            height="40" alt="jetbrains logo" /></a>
-    <a href="https://www.linux.org/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40"
-            alt="linux logo" /></a>
-    <a href="https://www.vim.org/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="40"
-            alt="vim logo" /></a>
-    <a href="https://www.gnu.org/software/bash/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40"
-            alt="bash logo" /></a>
-    <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
-            height="40" alt="git logo" /></a>
-    <a href="https://github.com/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40"
-            alt="github logo" /></a>
-    <a href="https://vercel.com/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="Vercel"
-            width="40" height="40" /></a>
-    <a href="https://app.netlify.com/teams/ahmedmuhvip/sites"><img src="https://skillicons.dev/icons?i=netlify" height="40"
-            alt="c logo" /></a>
+    <a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg" height="40" alt="webstorm logo" /></a>
+    <a href="https://www.jetbrains.com/datagrip/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo" /></a>
+    <a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" height="40" alt="phpstorm logo" /></a>
+    <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" alt="linux logo" /></a>
+    <a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="40" alt="vim logo" /></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40" alt="bash logo" /></a>
+    <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="git logo" /></a>
+    <a href="https://github.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github logo" /></a>
+    <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="vercel logo" width="40" height="40" /></a>
+    <a href="https://app.netlify.com/teams/ahmedmuhvip/sites"><img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-    <a href="https://x.com/A7med_Muhammed0" target="blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40"
-            alt="twitter logo" />
+    <a href="https://x.com/A7med_Muhammed0" target="_blank">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo" />
     </a>
-    <a href="https://www.linkedin.com/in/ahmedmuhvip/" target="blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40"
-            alt="linkedin logo" />
+    <a href="https://www.linkedin.com/in/ahmedmuhvip/" target="_blank">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo" />
     </a>
     <a href="mailto:AhmedMuhammed0031@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52"
-            height="40" alt="gmail logo" />
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo" />
     </a>
 </div>
 <br />
 <div>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMuhvip&show_icons=true&locale=en&layout=compact"
-        alt="AhmedMuhvip" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMuhvip&show_icons=true&locale=en&layout=compact" alt="AhmedMuhvip top languages" />
 </div>
 
 <div>
-    &nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=AhmedMuhvip&show_icons=true&locale=en"
-        alt="AhmedMuhvip" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedMuhvip&show_icons=true&locale=en" alt="AhmedMuhvip github stats" />
 </div>
