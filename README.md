@@ -1,106 +1,238 @@
 <br />
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-        width="550" />
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="550"
+  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Muhammed</h1>
-<h3 align="center">Software Engineer | Front-End Developer</h3>
+<h3 align="center">Back-End Developer | PHP & Laravel Developer</h3>
 
 <div align="center">
-    <img
-        src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMuhvip.AhmedMuhvip&left_color=forestgreen&right_color=blue" />
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=AhmedMuhvip.AhmedMuhvip&left_color=forestgreen&right_color=blue"
+  />
 </div>
 
 <p>
-    👀 I’m excited about starting my journey in front-end development and eager to
-    learn all about building beautiful and functional websites.
+  🚀 I’m diving into the world of back-end development, passionate about
+  building powerful and efficient web applications.
 </p>
 <p>
-    🌱 I’m currently learning the basics of HTML, CSS, and JavaScript, with a
-    focus on mastering foundational concepts.
+  🔧 Currently honing my skills in PHP and Laravel, while keeping up with
+  front-end essentials like HTML, CSS, and JavaScript to create seamless
+  full-stack solutions.
 </p>
 <p>
-    💼 I’m looking for opportunities to gain experience through internships,
-    entry-level positions, or collaborative projects.
+  🎯 I’m actively seeking opportunities for internships, entry-level roles, or
+  team projects where I can contribute, learn, and grow as a developer.
 </p>
 <p>
-    💞 I’m interested in collaborating on simple projects where I can practice
-    and improve my coding skills.
+  🤝 I love collaborating on projects that challenge me to improve my
+  problem-solving skills, work with databases, and develop secure, scalable
+  applications.
 </p>
-<p>🛠️ Tech Stack: HTML, CSS, JavaScript (learning React soon!), and PHP.</p>
+<p>🛠️ Tech Stack: PHP (Laravel), MySQL, HTML, CSS, JavaScript (basic).</p>
 <p>
-    📢 How to reach me: You can reach me via email at AhmedMuhammed0031@gmail.com.
+  📢 How to reach me: You can reach me via email at AhmedMuhammed0031@gmail.com.
 </p>
 
 <h3 align="left">Frontend Development:</h3>
 <div align="left">
-    <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" height="40"
-            alt="html5 logo" /></a>
-    <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" height="40"
-            alt="css3 logo" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"
-            height="40" alt="javascript logo" /></a>
-    <a href="https://www.typescriptlang.org/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40"
-            alt="typescript logo" /></a>
-    <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" height="40"
-            alt="bootstrap logo" /></a>
-    <a href="https://tailwindcss.com/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40"
-            alt="tailwind logo" /></a>
-    <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /></a>
-    <a href="https://redux.js.org"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" height="40"
-            alt="redux logo" /></a>
-    <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" /></a>
-    <a href="https://nextjs.org/"><img
-            src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40"
-            alt="nextjs logo" /></a>
-    <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" /></a>
+  <a href="https://www.w3.org/html/"
+    ><img
+      src="https://skillicons.dev/icons?i=html"
+      height="40"
+      alt="html5 logo"
+  /></a>
+  <a href="https://www.w3schools.com/css/"
+    ><img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"
+  /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    ><img
+      src="https://skillicons.dev/icons?i=js"
+      height="40"
+      alt="javascript logo"
+  /></a>
+  <a href="https://www.typescriptlang.org/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"
+      height="40"
+      alt="typescript logo"
+  /></a>
+  <a href="https://getbootstrap.com"
+    ><img
+      src="https://skillicons.dev/icons?i=bootstrap"
+      height="40"
+      alt="bootstrap logo"
+  /></a>
+  <a href="https://tailwindcss.com/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"
+      height="40"
+      alt="tailwind logo"
+  /></a>
+  <a href="https://reactjs.org/"
+    ><img
+      src="https://skillicons.dev/icons?i=react"
+      height="40"
+      alt="react logo"
+  /></a>
+  <a href="https://redux.js.org"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg"
+      height="40"
+      alt="redux logo"
+  /></a>
+  <a href="https://vitejs.dev/"
+    ><img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"
+  /></a>
+  <a href="https://nextjs.org/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"
+      height="40"
+      alt="nextjs logo"
+  /></a>
+  <a href="https://laravel.com/"
+    ><img
+      src="https://skillicons.dev/icons?i=laravel"
+      height="40"
+      alt="laravel logo"
+  /></a>
 </div>
 
 <h3 align="left">Programming Languages:</h3>
 <div align="left" style="display: flex; gap: 0.5rem">
-    <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" /></a>
-    <a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" /></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" /></a>
-    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" alt="python logo" /></a>
-    <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" /></a>
+  <a href="https://www.cprogramming.com/"
+    ><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"
+  /></a>
+  <a href="https://cplusplus.com/"
+    ><img
+      src="https://skillicons.dev/icons?i=cpp"
+      height="40"
+      alt="cplusplus logo"
+  /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"
+    ><img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"
+  /></a>
+  <a href="https://www.python.org"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
+      height="40"
+      alt="python logo"
+  /></a>
+  <a href="https://www.php.net/"
+    ><img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"
+  /></a>
 </div>
 
 <h3 align="left">Tools & Utilities:</h3>
 <div align="left" style="display: flex; gap: 0.5rem">
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg" height="40" alt="webstorm logo" /></a>
-    <a href="https://www.jetbrains.com/datagrip/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo" /></a>
-    <a href="https://www.jetbrains.com/phpstorm/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg" height="40" alt="phpstorm logo" /></a>
-    <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="40" alt="linux logo" /></a>
-    <a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg" height="40" alt="vim logo" /></a>
-    <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" height="40" alt="bash logo" /></a>
-    <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" alt="git logo" /></a>
-    <a href="https://github.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github logo" /></a>
-    <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" alt="vercel logo" width="40" height="40" /></a>
-    <a href="https://app.netlify.com/teams/ahmedmuhvip/sites"><img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" /></a>
+  <a href="https://www.jetbrains.com/webstorm/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg"
+      height="40"
+      alt="webstorm logo"
+  /></a>
+  <a href="https://www.jetbrains.com/datagrip/"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"
+      height="40"
+      alt="datagrip logo"
+  /></a>
+  <a href="https://www.jetbrains.com/phpstorm/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PhpStorm-Dark.svg"
+      height="40"
+      alt="phpstorm logo"
+  /></a>
+  <a href="https://www.linux.org/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
+      height="40"
+      alt="linux logo"
+  /></a>
+  <a href="https://www.vim.org/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VIM-Dark.svg"
+      height="40"
+      alt="vim logo"
+  /></a>
+  <a href="https://www.gnu.org/software/bash/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg"
+      height="40"
+      alt="bash logo"
+  /></a>
+  <a href="https://git-scm.com/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
+      height="40"
+      alt="git logo"
+  /></a>
+  <a href="https://github.com/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg"
+      height="40"
+      alt="github logo"
+  /></a>
+  <a href="https://vercel.com/"
+    ><img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg"
+      alt="vercel logo"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://app.netlify.com/teams/ahmedmuhvip/sites"
+    ><img
+      src="https://skillicons.dev/icons?i=netlify"
+      height="40"
+      alt="netlify logo"
+  /></a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-    <a href="https://x.com/A7med_Muhammed0" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40" alt="twitter logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/ahmedmuhvip/" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40" alt="linkedin logo" />
-    </a>
-    <a href="mailto:AhmedMuhammed0031@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo" />
-    </a>
+  <a href="https://x.com/A7med_Muhammed0" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg"
+      width="52"
+      height="40"
+      alt="twitter logo"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedmuhvip/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"
+      width="52"
+      height="40"
+      alt="linkedin logo"
+    />
+  </a>
+  <a href="mailto:AhmedMuhammed0031@gmail.com" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg"
+      width="52"
+      height="40"
+      alt="gmail logo"
+    />
+  </a>
 </div>
 <br />
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMuhvip&show_icons=true&locale=en&layout=compact" alt="AhmedMuhvip top languages" />
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMuhvip&show_icons=true&locale=en&layout=compact"
+    alt="AhmedMuhvip top languages"
+  />
 </div>
 
 <div>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedMuhvip&show_icons=true&locale=en" alt="AhmedMuhvip github stats" />
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=AhmedMuhvip&show_icons=true&locale=en"
+    alt="AhmedMuhvip github stats"
+  />
 </div>
